@@ -1,4 +1,4 @@
-# What Is My Screen Resolution
+# Detect Screen Resolution
 
 Simple tool that detects a user's screen and viewport resolution, device pixel ratio, and displays results. Uses client-side JavaScript to detect accurate values and optionally POSTs them to the server for logging or saving.
 
