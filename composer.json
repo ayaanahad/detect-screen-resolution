@@ -1,0 +1,8 @@
+{
+  "name": "yourname/whatismyscreenresolution",
+  "description": "Simple PHP tool to report screen & viewport resolution",
+  "type": "project",
+  "require": {
+    "php": ">=7.4"
+  }
+}
